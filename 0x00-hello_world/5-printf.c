@@ -1,7 +1,7 @@
-#include <stdio.h>
+include <stdio.h>
 /**
- * *main - print text
- * *return: 0
+ *main - prints text
+ *Return: 0
  */
 int main(void)
 {

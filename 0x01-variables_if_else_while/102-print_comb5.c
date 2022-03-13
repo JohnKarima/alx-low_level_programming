@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- *main -  print a comibnation of two two-digit numbers
- *Return: 0
- */
+*main -  print a comibnation of two two-digit numbers
+*Return: 0
+*/
 int main(void)
 {
 	int i, j;

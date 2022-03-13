@@ -5,6 +5,7 @@
  *main - check if random n number is positive or negative
  *Return: 0
  */
+
 int main(void)
 {
 	int n;
@@ -24,3 +25,4 @@ int main(void)
 	}
 	return (0);
 }
+

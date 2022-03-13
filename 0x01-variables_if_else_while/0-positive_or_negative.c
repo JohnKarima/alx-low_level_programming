@@ -2,13 +2,14 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *main - check if random n number is positive or negative
- *Return: 0
- */
+*main - check if random n number is positive or negative
+*Return: 0
+*/
 
 int main(void)
 {
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
@@ -25,4 +26,3 @@ int main(void)
 	}
 	return (0);
 }
-
